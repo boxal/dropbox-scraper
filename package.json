@@ -1,0 +1,20 @@
+{
+  "name": "dropbox-scraper",
+  "version": "0.1.0",
+  "description": "A service to scrape dropbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramanpreet Nara",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.5.3",
+    "socket.io": "^1.4.8",
+    "ramda": "^0.21.0",
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {
+    "immutable": "^3.8.1"
+  }
+}
